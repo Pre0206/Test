@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IressToyRobotCodeChallenge", "IressToyRobotCodeChallenge\IressToyRobotCodeChallenge.csproj", "{15D048A0-7254-4E8C-B590-C78590E0C9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IressToyRobotCodeChallengeTest", "IressToyRobotCodeChallengeTest\IressToyRobotCodeChallengeTest.csproj", "{A1AAF249-92C9-4350-9DCD-A3A5644CFE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D048A0-7254-4E8C-B590-C78590E0C9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D048A0-7254-4E8C-B590-C78590E0C9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D048A0-7254-4E8C-B590-C78590E0C9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D048A0-7254-4E8C-B590-C78590E0C9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1AAF249-92C9-4350-9DCD-A3A5644CFE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AAF249-92C9-4350-9DCD-A3A5644CFE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AAF249-92C9-4350-9DCD-A3A5644CFE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AAF249-92C9-4350-9DCD-A3A5644CFE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9812BFC-D366-4A7D-B1E5-509FFEC9C84F}
+	EndGlobalSection
+EndGlobal
